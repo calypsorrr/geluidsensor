@@ -1,3 +1,4 @@
+//Deze code gaat een grafiek tekenen over de input
 const int OUT_PIN = 8;
 const int SAMPLE_TIME = 10;
 unsigned long millisCurrent;
@@ -25,3 +26,4 @@ void loop() {
     millisLast = millisCurrent;
   }
 }
+//Test Myrthe
