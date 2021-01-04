@@ -1,3 +1,4 @@
+//Dit is om geluid te gaan opmeten met een analoge geluidssensor
 int sensor_value = 0;
 int threshold = 810; //Enter Your threshold value here
 int abs_value = 0;
